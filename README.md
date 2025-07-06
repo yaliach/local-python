@@ -3,7 +3,6 @@
 
 `localpython` is a simple cross-platform CLI tool that automatically detects your local `.venv`, `venv`, or `env` folder and uses its Python interpreter to run a script — just like a smart alias.
 
----
 
 ## Features
 
@@ -13,7 +12,6 @@
 - ✅ Automatically searches parent directories with `-p`
 - ✅ Includes `--version`, `--which`, `--help`
 
----
 
 ## Installation
 
@@ -22,8 +20,6 @@ Install via `pip`:
 ```bash
 pip install localpython
 ```
-
----
 
 ## Usage
 
@@ -57,8 +53,6 @@ localpython --which
 localpython --version
 ```
 
----
-
 ## Example
 
 Given a project:
@@ -83,14 +77,14 @@ This tool will automatically run:
 
 (Or the Unix equivalent if on Linux/Mac)
 
----
+
 
 ## License
 
-MIT
+This project is licensed under the [MIT License](LICENSE).
 
----
+
 
 ## Author
 
-Created by [Yali Ach](https://github.com/YaliAch)pt.py --search.py --search
+Created by [Yali Ach](https://github.com/YaliAch)
