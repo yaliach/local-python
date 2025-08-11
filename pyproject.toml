@@ -1,6 +1,6 @@
 [project]
 name = "localpython"
-version = "0.1.2"
+version = "0.2.0"
 description = "Run Python scripts using the local virtual environment without activating it"
 authors = [{ name = "Yali Achitov", email = "yaliachitov26@gmail.com" }]
 readme = "README.md"
